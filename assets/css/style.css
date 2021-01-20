@@ -39,3 +39,21 @@ footer {
     -o-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
 }
+.cv-pdf i:hover {
+    color: #e84610;
+}
+
+.social-links li a i {
+    width:45px;
+    height: 45px;
+    font-size: 30px;
+    border-radius: 50%;
+    text-align: center;
+    color: #fafafa;
+    background-color: #8f8f8f;
+    line-height: 45px;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+}

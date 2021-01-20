@@ -66,7 +66,7 @@ footer {
 .progress {
     position: relative;
     height: 50px;
-    margin-bottom: 4px;
+    margin-bottom: 8px;
 }
 
 .progress-type {
@@ -74,5 +74,10 @@ footer {
     left: 7px;
     top: 8px;
     color: #fafafa;
+}
+
+.skills {
+    background-color: #e84610;
+    margin: 0;
     
 }

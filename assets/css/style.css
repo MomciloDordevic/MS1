@@ -26,9 +26,11 @@
 }
 
 footer {
-    background-color: #545454;
+    background-image: none;
+    background-color: transparent;
     height: 90px;
     margin: 0;
+    color: #fafafa;
 }
 
 .cv-pdf i {

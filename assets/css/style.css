@@ -62,3 +62,17 @@ footer {
 .social-links li a i:hover {
     color: #e84610;
 }
+
+.progress {
+    position: relative;
+    height: 50px;
+    margin-bottom: 4px;
+}
+
+.progress-type {
+    position: absolute;
+    left: 7px;
+    top: 8px;
+    color: #fafafa;
+    
+}

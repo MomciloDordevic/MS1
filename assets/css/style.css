@@ -28,3 +28,14 @@ footer {
     background-color: #545454;
     margin: 0;
 }
+
+.cv-pdf i {
+    font-size: 35px;
+    color: #fafafa;
+    text-align: center;
+    padding-left: 90px;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+}

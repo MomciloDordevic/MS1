@@ -77,7 +77,15 @@ footer {
 }
 
 .skills {
-    background-color: #e84610;
+    background-color: #10e8cb6c;
     margin: 0;
-    
+}
+
+.skill-container {
+    height: 130px;
+    width: auto;
+    margin: 20px 0px;
+    padding: 15px 0px;
+    padding-left: 20px;
+    border-radius: 15px;
 }

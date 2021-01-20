@@ -7,7 +7,8 @@
 }
 
 .index-hero-image {
-    background-image: url("/assets/img/pexels-life-of-pix-7974.jpg");
+   background-image: none;
+    background-color:transparent;
     background-position: 36% 0%;
 }
 
@@ -89,5 +90,17 @@ footer {
 }
 
 .main-container {
-    background-color: black;
+    
+    background-image: none;
+    background-color:transparent;
+}
+
+.background-image {
+    background-image: url("/assets/img/pexels-life-of-pix-7974.jpg");
+    background-position: 36% 0%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    height: 720px;
+    width: auto;
 }

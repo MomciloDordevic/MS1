@@ -110,3 +110,12 @@ footer {
     height: 720px;
     width: auto;
 }
+
+.carousel-portfolio {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+    background-image: none;
+    background-color: transparent;
+    display: inline-block;
+}

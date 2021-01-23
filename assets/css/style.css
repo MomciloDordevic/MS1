@@ -133,4 +133,6 @@ footer {
 .contact-text {
     text-align: center;
     font-weight: 400;
+    padding-left: 10%;
+    padding-bottom: 5%;
 }

@@ -6,6 +6,12 @@
     letter-spacing: 2px;
 }
 
+.navbar-text {
+    font-family: "poppins", sans-serif;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+
 .hero-images {
     background-size: cover;
     background-repeat: no-repeat;

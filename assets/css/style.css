@@ -7,6 +7,7 @@
     font-size: xx-large;
 }
 
+
 .navbar-text {
     font-family: "poppins", sans-serif;
     font-weight: 500;
@@ -135,7 +136,7 @@ footer {
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
-    height: 720px;
+    height: auto;
     width: auto;
 }
 

@@ -152,3 +152,9 @@ footer {
     padding-left: 10%;
     padding-bottom: 2%;
 }
+
+.footer-text {
+    font-family: "poppins",sans-serif;
+    font-weight: 500;
+    letter-spacing: 2px;
+}

@@ -67,11 +67,15 @@ footer {
 }
 
 .photoshop {
-   background-color: #00ff0d;
+   background-color: #027a08;
 }
 
 .illustrator {
-    background-color: #ff008c;
+    background-color: #a10059;
+}
+
+.balsamiq {
+    background-color: #a0a300;
 }
 
 .social-links li a i {

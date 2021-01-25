@@ -67,7 +67,11 @@ footer {
 }
 
 .photoshop {
-   background-color: #e84610;
+   background-color: #00ff0d;
+}
+
+.illustrator {
+    background-color: #ff008c;
 }
 
 .social-links li a i {

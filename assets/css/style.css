@@ -176,3 +176,10 @@ footer {
 .footer-cv {
     padding-left: 220px;
 }
+
+.carousel-caption {
+    background-color: #686868;
+    opacity: 0.9;
+    border-radius: 15px;
+    border: 2px solid #ffffff;
+    }

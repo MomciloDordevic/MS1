@@ -9,7 +9,7 @@
 }
 
 .index-hero-image {
-   background-image: none;
+    background-image: none;
     background-color:transparent;
     background-position: 36% 0%;
 }
@@ -25,6 +25,7 @@
     padding: 10px;
     text-align: center;
     letter-spacing: 1px;
+    font-family: "Poppins", sans-serif;
 }
 
 footer {

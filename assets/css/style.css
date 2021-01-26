@@ -51,8 +51,6 @@ footer {
 .cv-pdf i {
     font-size: 35px;
     color: #fafafa;
-    text-align: center;
-    padding-left: 90px;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -o-transition: all 0.35s ease-in-out;
@@ -123,10 +121,8 @@ footer {
 
 .background-image {
     background-image: url("/assets/img/pexels-life-of-pix-7974.jpg");
-    background-position: 36% 100%;
+    background-position: 35% 50%;
     background-size: cover;
-    background-repeat: no-repeat;
-    position: relative;
     height: auto;
     width: auto;
 }
@@ -167,7 +163,7 @@ footer {
 }
 
 .footer-cv {
-    padding-left: 12%;
+    padding:0;
 }
 
 .carousel-caption {

@@ -142,12 +142,12 @@ footer {
 
 .contact-container {
     margin: 0 auto 0 auto;
-    padding-top: 5%;
+    padding-top: 3.1%;
     padding-right: 10%;
 }
 
 .contact-button {
-    margin:0 auto;
+    margin: 0 auto;
     display:flex;
 }
 

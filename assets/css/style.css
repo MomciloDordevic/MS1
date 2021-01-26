@@ -74,22 +74,19 @@ footer {
     background-color: #a0a300;
 }
 
-.social-links li a i {
-    width:45px;
-    height: 45px;
-    font-size: 30px;
-    border-radius: 50%;
-    text-align: center;
-    color: #fafafa;
-    background-color: #8f8f8f;
-    line-height: 45px;
+.social-links a{
+    letter-spacing: 5px;
+    margin-left: 5px;
+    width:auto;
+    height: auto;
+    font-size: 32px;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -o-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
 }
 
-.social-links li a i:hover {
+.social-links a:hover {
     color: #e84610;
 }
 

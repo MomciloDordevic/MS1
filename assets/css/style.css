@@ -152,6 +152,7 @@ footer {
 }
 
 .contact-text {
+    color:#fafafa;
     font-family: "poppins",sans-serif;
     text-align: center;
     font-weight: 400;
@@ -176,4 +177,10 @@ footer {
     opacity: 0.9;
     border-radius: 15px;
     border: 2px solid #ffffff;
-    }
+}
+.form-labels {
+    color: #fafafa;
+    font-weight: 500;
+    letter-spacing: 1px;
+    font-size: x-large;
+}

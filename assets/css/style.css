@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
+body {
+    padding-top: 45px;
+}
+
 .header-font {
     font-family: "poppins", sans-serif;
     font-weight: 700;
@@ -121,7 +125,7 @@ footer {
 
 .background-image {
     background-image: url("/assets/img/pexels-life-of-pix-7974.jpg");
-    background-position: 35% 50%;
+    background-position: 50% 50%;
     background-size: cover;
     height: auto;
     width: auto;

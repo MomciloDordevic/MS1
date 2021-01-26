@@ -45,15 +45,7 @@
 }
 
 footer {
-    background-image: none;
-    background-color: transparent;
-    height: auto;
-    margin: 0;
     color: #fafafa;
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width:auto;
 }
 
 .cv-pdf i {

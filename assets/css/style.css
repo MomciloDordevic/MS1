@@ -199,6 +199,7 @@ footer {
 .card-link {
     font-family: "poppins",sans-serif;
     font-weight: 600;
+    padding-left: 10%;
 }
 
 .card-link:hover {

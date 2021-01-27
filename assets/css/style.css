@@ -187,5 +187,6 @@ footer {
 
 .card-title {
     font-family: "poppins",sans-serif;
-    letter-spacing: 3px;
+    letter-spacing: 2px;
+    font-weight: 600;
 }

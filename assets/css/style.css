@@ -193,6 +193,7 @@ footer {
 }
 
 .card-text {
+    text-align: center;
     font-family: "poppins",sans-serif;
     letter-spacing: 1px;
 }

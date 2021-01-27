@@ -190,3 +190,7 @@ footer {
     letter-spacing: 2px;
     font-weight: 600;
 }
+
+.card-text {
+    font-family: "poppins",sans-serif;
+}

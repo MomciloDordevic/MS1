@@ -135,23 +135,13 @@ footer {
     height: auto;
     width: auto;
 }
-
-#portfolio-carousel {
-    width: 
-}
-
-.carousel-image {
-    width:
-
-}
-
 .carousel-portfolio {
-    margin-left: 20%;
-    margin-right: 20%;
-    margin-top: 5%;
-    background-image: none;
-    background-color: transparent;
-    display: inline-block;
+    padding: 25px 5px;
+    background-color: #e8e8e8;
+}
+
+.carousel-item {
+    padding-bottom: 20px;
 }
 
 .contact-container {

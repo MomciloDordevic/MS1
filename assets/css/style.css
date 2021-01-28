@@ -136,8 +136,30 @@ footer {
     width: auto;
 }
 .carousel-portfolio {
-    padding: 25px 5px;
+    padding: 20px 5px;
     background-color: #e8e8e8;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 50px;
+  width: 50px;
+  outline: black;
+  background-size: 100%, 100%;
+  background-image: none;
+}
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 55px;
+  color: black;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  color: black;
 }
 
 .carousel-item {
@@ -157,10 +179,6 @@ footer {
 
 .project-cards {
     background-color: #e8e8e8;
-}
-
-.carousel-control-prev-icon {
-    outline: black;
 }
 
 .contact-button {

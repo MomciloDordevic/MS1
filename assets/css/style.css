@@ -259,3 +259,8 @@ footer {
     font-size: larger;
     padding-top: 2%;
 }
+
+.main-container-profile {
+    background-color: #e8e8e8;
+    margin-bottom: -15px;
+}

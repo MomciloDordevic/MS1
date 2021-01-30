@@ -252,3 +252,7 @@ footer {
     width: auto;
     background-image: url("/assets/img/pexels-jéshoots-218863.jpg");
 }
+
+.profile-content {
+    font-family: "poppins",sans-serif;
+}

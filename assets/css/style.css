@@ -243,3 +243,11 @@ footer {
 .card-link:hover {
     color: #e84610;
 }
+
+.hero-images {
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    height: 350px;
+    width: auto;
+}

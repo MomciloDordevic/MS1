@@ -248,6 +248,7 @@ footer {
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
-    height: 350px;
+    height: 400px;
     width: auto;
+    background-image: url("/assets/img/pexels-jéshoots-218863.jpg");
 }

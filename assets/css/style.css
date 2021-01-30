@@ -256,4 +256,6 @@ footer {
 .profile-content {
     font-family: "poppins",sans-serif;
     font-weight: 500;
+    font-size: larger;
+    padding-top: 2%;
 }

@@ -264,3 +264,7 @@ footer {
     background-color: #e8e8e8;
     margin-bottom: -15px;
 }
+
+.profile-text {
+    font-family: "poppins",sans-serif;
+}

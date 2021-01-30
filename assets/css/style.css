@@ -15,7 +15,6 @@ body {
     letter-spacing: 2px;
     font-size: xx-large;
     color: #fafafa;
-
 }
 
 
@@ -124,6 +123,7 @@ footer {
 }
 
 .main-container {
+    padding-left: 3%;
     background-image: none;
     background-color:transparent;
     font-family: "poppins", sans-serif;

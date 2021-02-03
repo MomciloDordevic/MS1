@@ -54,21 +54,9 @@ body {
     font-family: "Poppins", sans-serif;
 }
 
-footer {
-    color: #fafafa;
-}
 
-.cv-pdf i {
-    font-size: 35px;
-    color: #fafafa;
-    transition: all 0.35s ease-in-out;
-    -moz-transition: all 0.35s ease-in-out;
-    -o-transition: all 0.35s ease-in-out;
-    -webkit-transition: all 0.35s ease-in-out;
-}
-.cv-pdf i:hover {
-    color: #e84610;
-}
+
+
 
 .photoshop {
    background-color: #027a08;
@@ -82,21 +70,7 @@ footer {
     background-color: #a0a300;
 }
 
-.social-links a{
-    letter-spacing: 5px;
-    margin-left: 5px;
-    width:auto;
-    height: auto;
-    font-size: 32px;
-    transition: all 0.35s ease-in-out;
-    -moz-transition: all 0.35s ease-in-out;
-    -o-transition: all 0.35s ease-in-out;
-    -webkit-transition: all 0.35s ease-in-out;
-}
 
-.social-links a:hover {
-    color: #e84610;
-}
 
 .progress {
     position: relative;
@@ -199,17 +173,7 @@ footer {
     padding-bottom: 2%;
 }
 
-.footer-text {
-    font-family: "poppins",sans-serif;
-    font-weight: 500;
-    letter-spacing: 2px;
-    height:auto;
-}
 
-.footer-cv {
-    padding-top: 2px;
-    padding-left:10%;
-}
 
 .carousel-caption {
     background-color: #686868;
@@ -272,4 +236,52 @@ footer {
     font-family: "poppins",sans-serif;
     text-align: center;
     padding-top: 2%;
+}
+
+
+/* Footer */
+
+
+.footer-text {
+    font-family: "poppins",sans-serif;
+    font-weight: 500;
+    letter-spacing: 2px;
+    height:auto;
+}
+
+.footer-cv {
+    padding-top: 2px;
+    padding-left:10%;
+}
+
+footer {
+    color: #fafafa;
+}
+
+.social-links a{
+    letter-spacing: 5px;
+    margin-left: 5px;
+    width:auto;
+    height: auto;
+    font-size: 32px;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+}
+
+.social-links a:hover {
+    color: #e84610;
+}
+
+.cv-pdf i {
+    font-size: 35px;
+    color: #fafafa;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+}
+.cv-pdf i:hover {
+    color: #e84610;
 }

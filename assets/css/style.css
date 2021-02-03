@@ -130,7 +130,7 @@ footer {
 }
 
 .background-image {
-    background-image: url("/assets/img/pexels-pixabay-163143.jpg");
+    background-image: url("MS1/assets/img/pexels-pixabay-163143.jpg");
     background-position: 20% 5%;
     background-size: cover;
     height: auto;

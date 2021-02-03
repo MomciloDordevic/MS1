@@ -11,7 +11,7 @@ body {
 }
 
 .background-image {
-    background-image: url("/assets/img/pexels-pixabay-163143.jpg");
+    background-image: url("../img/pexels-pixabay-163143.jpg");
     padding-bottom: 20px;
     background-position: 20% 5%;
     background-size: cover;
@@ -292,3 +292,7 @@ footer {
 .cv-pdf i:hover {
     color: #e84610;
 }
+
+
+/*   Media Queries  */
+

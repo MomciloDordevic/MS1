@@ -10,6 +10,18 @@ body {
     padding: 0;
 }
 
+.background-image {
+    background-image: url("/assets/img/pexels-pixabay-163143.jpg");
+    padding-bottom: 20px;
+    background-position: 20% 5%;
+    background-size: cover;
+    height: auto;
+    width: auto;
+}
+
+/* Header / Nabvar */
+
+
 .header-font {
     font-family: "poppins", sans-serif;
     font-weight: 700;
@@ -55,7 +67,7 @@ body {
 }
 
 
-
+/* Progress Bar */
 
 
 .photoshop {
@@ -69,8 +81,6 @@ body {
 .balsamiq {
     background-color: #a0a300;
 }
-
-
 
 .progress {
     position: relative;
@@ -104,14 +114,46 @@ body {
     font-family: "poppins", sans-serif;
 }
 
-.background-image {
-    background-image: url("/assets/img/pexels-pixabay-163143.jpg");
-    padding-bottom: 20px;
-    background-position: 20% 5%;
-    background-size: cover;
-    height: auto;
-    width: auto;
+/* carousel and Project Cards */
+
+.carousel-caption {
+    background-color: #686868;
+    opacity: 0.9;
+    border-radius: 15px;
+    border: 2px solid #ffffff;
 }
+
+.card-title {
+    text-align: center;
+    font-family: "poppins",sans-serif;
+    letter-spacing: 2px;
+    font-weight: 600;
+}
+
+.card-text {
+    text-align: center;
+    font-family: "poppins",sans-serif;
+    letter-spacing: 1px;
+}
+
+.card-link {
+    font-family: "poppins",sans-serif;
+    font-weight: 600;
+    padding-left: 10%;
+}
+
+.card-link:hover {
+    color: #e84610;
+}
+
+.card-project {
+    padding-top: 25px;
+}
+
+.project-cards {
+    background-color: #e8e8e8;
+}
+
 .carousel-portfolio {
     padding: 20px 5px;
     background-color: #e8e8e8;
@@ -144,19 +186,13 @@ body {
     padding-top: 2%;
 }
 
+/* Contact Container */
+
 .contact-container {
     margin: 0 auto 0 auto;
     padding-top: 4%;
     padding-right: 10%;
     padding-bottom: 2%;
-}
-
-.card-project {
-    padding-top: 25px;
-}
-
-.project-cards {
-    background-color: #e8e8e8;
 }
 
 .contact-button {
@@ -173,14 +209,6 @@ body {
     padding-bottom: 2%;
 }
 
-
-
-.carousel-caption {
-    background-color: #686868;
-    opacity: 0.9;
-    border-radius: 15px;
-    border: 2px solid #ffffff;
-}
 .form-labels {
     color: #fafafa;
     font-weight: 500;
@@ -188,28 +216,7 @@ body {
     font-size: x-large;
 }
 
-.card-title {
-    text-align: center;
-    font-family: "poppins",sans-serif;
-    letter-spacing: 2px;
-    font-weight: 600;
-}
 
-.card-text {
-    text-align: center;
-    font-family: "poppins",sans-serif;
-    letter-spacing: 1px;
-}
-
-.card-link {
-    font-family: "poppins",sans-serif;
-    font-weight: 600;
-    padding-left: 10%;
-}
-
-.card-link:hover {
-    color: #e84610;
-}
 
 .hero-image {
     background-size: cover;

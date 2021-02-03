@@ -266,6 +266,7 @@ footer {
 }
 
 .social-links a{
+    color: white;
     text-decoration: none;
     letter-spacing: 5px;
     margin-left: 5px;

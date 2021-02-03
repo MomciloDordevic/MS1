@@ -25,7 +25,7 @@ body {
     position: relative;
     height: 400px;
     width: auto;
-    background-image: url("/assets/img/pexels-jéshoots-218863.jpg");
+    background-image: url("../img/pexels-jéshoots-218863.jpg");
 }
 
 /* Header / Nabvar */

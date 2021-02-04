@@ -30,6 +30,11 @@ body {
 
 /* Header / Nabvar */
 
+.navbar {
+    padding-top: 0; 
+    padding-bottom: 0; 
+}
+
 
 .header-font {
     font-family: "poppins", sans-serif;

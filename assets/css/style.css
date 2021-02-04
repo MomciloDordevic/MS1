@@ -19,15 +19,6 @@ body {
     width: auto;
 }
 
-.hero-image {
-    background-size: cover;
-    background-repeat: no-repeat;
-    position: relative;
-    height: 400px;
-    width: auto;
-    background-image: url("../img/pexels-jéshoots-218863.jpg");
-}
-
 /* Header / Nabvar */
 
 .navbar {

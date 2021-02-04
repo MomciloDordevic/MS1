@@ -5,6 +5,10 @@ body {
     padding-bottom: 45px;
 }
 
+.carousel .item {
+height: 300px;
+}
+
 * {
     margin: 0;
     padding: 0;

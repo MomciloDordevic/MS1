@@ -304,10 +304,14 @@ footer {
 .footer-text {
     text-align: center;
 }
-.project-container {
-    padding-bottom:;
-}
+
 body{
     padding-bottom: 18%;
+}
+.card-link {
+    padding-left: 16%;
+}
+.contact-container {
+    padding-left: 10%;
 }
 }

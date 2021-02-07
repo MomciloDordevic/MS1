@@ -43,6 +43,19 @@ body {
     color: #fafafa;
 }
 
+.index-hero-text {
+    position: absolute;
+    bottom: 20px;
+    right: 0px;
+    margin: 0 10px;
+    background-color: rgba(255, 255, 255, 0.7);
+    border: 2px solid #ffffff;
+    border-radius: 15px;
+    padding: 10px;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
 .hero-images {
     background-size: cover;
     background-repeat: no-repeat;
@@ -51,25 +64,7 @@ body {
     width: auto;
 }
 
-.index-hero-image {
-    background-image: none;
-    background-color:transparent;
-    background-position: 36% 0%;
-}
 
-.index-hero-text {
-    position: absolute;
-    bottom: 20px;
-    right: 0px;
-    margin: 0px 10px;
-    background-color: rgba(255, 255, 255, 0.7);
-    border: 2px solid #ffffff;
-    border-radius: 15px;
-    padding: 10px;
-    text-align: center;
-    letter-spacing: 1px;
-    font-family: "poppins", sans-serif;
-}
 
 
 /* Progress Bar */

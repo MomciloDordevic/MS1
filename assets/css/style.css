@@ -290,7 +290,7 @@ footer {
 
 /*   Media Queries  */
 
-@media screen and (max-width: 1440px) {
+@media screen and (max-width: 600px) {
     .index-hero-text {
     top: 15px;
     height: fit-content;

@@ -292,16 +292,16 @@ footer {
 
 @media screen and (max-width: 1440px) {
     .index-hero-text {
-    top: 5px;
+    top: 15px;
     height: fit-content;
 }
 
 .main-container {
-    padding-top: 50%;
+    padding-top: 250px;
 }
 
 .main-container-profile {
-    padding-bottom: 15%;
+    padding-bottom: 15px;
 }
 
 .footer-text {
@@ -309,11 +309,11 @@ footer {
 }
 
 body {
-    padding-bottom: 5%;
+    padding-bottom: 70px;
 }
 
 .card-link {
-    padding-left: 16%;
+    padding-left: 60px;
 }
 
 .contact-container {
@@ -324,6 +324,3 @@ body {
     color: black;
 }
 }
-
-
-

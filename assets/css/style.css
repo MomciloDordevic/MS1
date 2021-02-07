@@ -318,3 +318,32 @@ body{
     color: black;
 }
 }
+
+@media screen and (max-width: 576px) {
+    .index-hero-text {
+    top: 5px;
+    height: fit-content;
+}
+.main-container {
+    padding-top: 50%;
+}
+.main-container-profile {
+    padding-bottom: 10%;
+}
+.footer-text {
+    text-align: center;
+}
+
+body{
+    padding-bottom: 18%;
+}
+.card-link {
+    padding-left: 16%;
+}
+.contact-container {
+    padding-left: 10%;
+}
+.progress-type {
+    color: black;
+}
+}

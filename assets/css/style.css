@@ -301,4 +301,7 @@ footer {
 .main-container-profile {
     padding-bottom: 10%;
 }
+.footer-text {
+    text-align: center;
+}
 }

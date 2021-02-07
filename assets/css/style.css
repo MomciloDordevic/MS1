@@ -295,5 +295,7 @@ footer {
     top: 5px;
     height: fit-content;
 }
-
+.main-container {
+    padding-top: 50%;
+}
 }

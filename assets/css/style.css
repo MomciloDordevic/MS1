@@ -304,4 +304,10 @@ footer {
 .footer-text {
     text-align: center;
 }
+.project-container {
+    padding-bottom:;
+}
+body{
+    padding-bottom: 18%;
+}
 }

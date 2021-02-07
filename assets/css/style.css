@@ -298,4 +298,7 @@ footer {
 .main-container {
     padding-top: 50%;
 }
+.main-container-profile {
+    padding-bottom: 10%;
+}
 }

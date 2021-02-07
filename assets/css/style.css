@@ -93,7 +93,7 @@ body {
     position: absolute;
     left: 7px;
     top: 8px;
-    color: #fafafa;
+    color:black;
 }
 
 .skill-container {
@@ -313,5 +313,8 @@ body{
 }
 .contact-container {
     padding-left: 10%;
+}
+.progress-type {
+    color: black;
 }
 }

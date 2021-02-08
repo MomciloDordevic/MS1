@@ -304,9 +304,8 @@ footer {
     padding-bottom: 15px;
 }
 
-
-.card-link {
-    padding-left: 60px;
+   .card-link {
+    padding-left: 80px;
 }
 
 .contact-container {
@@ -334,5 +333,5 @@ footer {
     .main-container {
         padding-top: 30px;
     }
-    
+ 
 }

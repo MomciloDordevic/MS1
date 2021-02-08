@@ -250,7 +250,7 @@ body {
 
 .footer-cv {
     padding-top: 2px;
-    padding-left:10%;
+    text-align: right;
 }
 
 footer {
@@ -290,7 +290,7 @@ footer {
 
 /*   Media Queries  */
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1024px) {
     .index-hero-text {
     top: 15px;
     height: fit-content;
@@ -304,13 +304,6 @@ footer {
     padding-bottom: 15px;
 }
 
-.footer-text {
-    text-align: center;
-}
-
-body {
-    padding-bottom: 70px;
-}
 
 .card-link {
     padding-left: 60px;
@@ -320,7 +313,18 @@ body {
     padding-left: 10%;
 }
 
+.footer-text {
+    text-align: center;
+}
+
+
 .progress-type {
     color: black;
 }
+}
+
+@media screen and (max-width: 600px) {
+    body {
+        padding-bottom: 65px;
+    }
 }

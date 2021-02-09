@@ -12,25 +12,43 @@ I will also use Bootstrap framework to keep the website simple and clear.
 
 Website Link! Github repository link!
 
-Table of Contents:
--UX- 
-  website owner goals
-  User Goals
-    -new User goals
-    -Returning User Goals
-  User Stories
-  Structure of the website
-  Wireframes
-  Surface
+## Table of Contents:
+* [UX](#UX)
 
--Features-
--Technology-
-  functionality Testing
-  Compatibility Testing
-  Code Validation
-  User Stories Testing
-  Issues found during site development
-  Performance testing
--Deployment
--Credits
--Screenshots
+   * [Website owner goals](#website-owner-goals)
+
+   * [User goals](#user-goals)
+
+   * [New user goals](#new-user-goals)
+
+   * [Returning user goals](#returning-user-goals)
+
+   * [User stories](#user-stories)
+
+   * [Structure of the website](#structure-of-the-website)
+
+   * [Wireframes](#wireframes)
+
+   * [Surface](#surface)
+
+* [Features](#Features)
+
+* [Technology](#Technology)
+
+   * [Functionality testing](#Functionality-testing)
+
+   * [Compatibility testing](#Compatibility-testing)
+
+   * [Code validation](#Code-validation)
+
+   * [User stories testing](#User-stories-testing)
+
+   * [Issues found during site development](#Issues-found-during-site-development)
+
+   * [Performance testing](#Performance-testing)
+
+* [Deployment](#Deployment)
+
+* [Credits](#Credits)
+
+* [Screenshots](#Screenshots)

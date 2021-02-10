@@ -90,3 +90,51 @@ that i have worked on along side with links to websites and github repositories,
  
  * I would like to build and maintain a professional relationship with potential and future clients.
 
+### As a new clients
+
+ * I would like to find information about the Front-End Developer and check his/her qualifications.
+
+ * I wish to get in contact with a Front-End Developer for an idea or project i have.
+
+ * I would like to find someone with whom i can persue my ideas and share my future projects.
+
+### As a returning client 
+
+ * I would like to inform my friends about a Front-End Developer that they can contact when they are in need.
+
+ * I need to contact my employee to reshedule certain plans.
+
+ * I would like to check my employee's previous and current projects.
+
+
+## Structure of the website
+
+This website is designed to be easy and user-friendly on all types of devices. On dektop, tablet
+or mobile devices there should be no difference for a user to have a proper experience. ALl the
+parts are designed to achieve the highest possible user satisfaction.
+The user will get some interaction from the interface as links and buttons will have hover effects.
+
+## Wireframes
+
+I used website wireframe.cc to create a wireframes.
+
+
+
+## Surface
+
+### Colors
+
+Main colours used in a project:
+
+  * Font Color: #afafaf
+  * Hover Color: ##e84610
+  * Background Color for Cards and Containers: #e8e8e8
+  * Progress Bars: #027a08 , #a10059 , #a0a300
+
+### Fonts 
+
+ * As a main font I used "poppins", and as a backup font sans-serif.
+
+### Images
+
+ * I used images from www.pexels.com and there are credited in credits section.

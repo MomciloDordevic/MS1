@@ -283,5 +283,59 @@ I tested on hardware devices such as: Iphone 11, Lenovo Tablet, Huawei p30 pro, 
 
     * The Projects page is there including all the projects with live links and links to github repositories.
 
-    
 
+## Issues Found During Site Development
+
+## Performace Testing
+
+### Code Validation
+
+ * W3C CSS Validator to validate CSS.
+ * W3C HTML Validator to validate HTML.
+
+
+## Deployment
+
+The project was deployed on GitHub Pages. I used Gitpod as a development environment where I commited all changes to git version control system. I used push command in Gitpod to save changes into GitHub.
+
+To deploy a project I had to:
+
+ * Log in to GitHub and click on repository to deploy (MS1).
+
+ * Select Settings and find GitHub Pages section at the very bottom of the page.
+ 
+ * From source select none and then Milestone-Projects branch.
+ 
+ * Click save and page was deployed after auto-refresh.
+
+To run localy:
+
+ * Log in to GitHub and click on repository to download (MS1).
+
+ * Select Code and click Download the ZIP file.
+
+ * After download you can extract the file and use it in your local environment.
+
+
+## Credits
+
+ * To complete this project I used Code Institute many various tasks and early projects that i enconutered during my studies.
+
+ * Ideas and knowledge library:
+
+    * w3schools.com
+
+    * css-tricks.com
+
+    * getbootstrap.com/docs I used code for navbar, jumbotron and card from Bootstrap.
+
+### Code 
+
+ * Links transition: CSS transition Property
+ * Bootstrap: Carousel.
+ * Bootstrap: Burger menu.
+ * Bootstrap: Navigation menu.
+ * Bootstrap: Contact Form.
+ * Bootstrap: Cards.
+
+## Screenshots

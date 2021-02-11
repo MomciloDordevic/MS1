@@ -5,6 +5,7 @@ body {
     padding-bottom: 45px;
 }
 
+
 * {
     margin: 0;
     padding: 0;
@@ -23,7 +24,7 @@ body {
 
 .navbar {
     padding-top: 0; 
-    padding-bottom: 0; 
+    padding-bottom: 0;
 }
 
 
@@ -62,7 +63,7 @@ body {
     background-repeat: no-repeat;
     position: relative;
     height: 330px;
-    width: auto;
+    width: 100%;
 }
 
 
@@ -320,11 +321,15 @@ footer {
 .progress-type {
     color: black;
 }
+
 }
 
 @media screen and (max-width: 600px) {
     body {
         padding-bottom: 65px;
+    }
+    .header-font {
+        font-size: x-large;
     }
     
 }
@@ -346,5 +351,4 @@ footer {
     .main-container-profile {
     padding-bottom: 10vw;
 }
-
 }

@@ -54,7 +54,7 @@ body {
     border-radius: 15px;
     padding: 10px;
     text-align: center;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     font-family: "poppins",sans-serif;
 }
 
@@ -110,6 +110,8 @@ body {
 }
 
 .main-container {
+    top:0;
+    left:0;
     padding-left: 3%;
     background-image: none;
     background-color:transparent;
@@ -291,6 +293,7 @@ footer {
 
 /*   Media Queries  */
 
+
 @media screen and (max-width: 1024px) {
     .index-hero-text {
     top: 15px;
@@ -328,9 +331,7 @@ footer {
     body {
         padding-bottom: 65px;
     }
-    .header-font {
-        font-size: x-large;
-    }
+   
 }
 
 @media screen and (min-width: 700px) {
@@ -340,9 +341,6 @@ footer {
 }
    
 @media screen and (max-width: 420px) {
-    body {
-        padding-top: 23vw;
-    }
 
     .main-container {
         padding-top: 110vw;
@@ -350,4 +348,14 @@ footer {
     .main-container-profile {
     padding-bottom: 10vw;
 }
+ .header-font {
+        font-size: x-large;
+    }
 }
+
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 568px) {
+    .index-hero-text {
+        top: 50px;
+    }}

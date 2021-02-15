@@ -58,6 +58,7 @@ body {
 }
 
 .hero-images {
+    padding-top: 20px;
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;

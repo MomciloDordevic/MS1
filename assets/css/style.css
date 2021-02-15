@@ -2,7 +2,6 @@
 
 body {
     padding-top: 45px;
-    padding-bottom: 45px;
 }
 
 * {
@@ -345,11 +344,6 @@ footer {
     }
     .contact-text {
         font-size: x-large;
-        width: 250px;
-        padding-right: 50px; 
-    }
-    body {
-        padding-bottom: 85px;
     }
 }
 

@@ -129,14 +129,12 @@ body {
 }
 
 .card-title {
-    text-align: center;
     font-family: "poppins",sans-serif;
     letter-spacing: 2px;
     font-weight: 600;
 }
 
 .card-text {
-    text-align: center;
     font-family: "poppins",sans-serif;
     letter-spacing: 1px;
 }
@@ -144,7 +142,6 @@ body {
 .card-link {
     font-family: "poppins",sans-serif;
     font-weight: 600;
-    padding-left: 10%;
 }
 
 .card-link:hover {
@@ -311,9 +308,6 @@ footer {
     padding-bottom: 15px;
 }
 
-   .card-link {
-    padding-left: 80px;
-}
 
 .contact-container {
     padding-left: 10%;
@@ -340,9 +334,17 @@ footer {
 
     
     .main-container-profile {
-    padding-bottom: 10vw;
+    padding-bottom: 15vw;
 }
     .header-font {
         font-size: x-large;
     }
+}
+
+@media screen and (max-width: 340px) {
+    .index-hero-text { 
+        padding-top: 30px;
+    }
+    
+
 }

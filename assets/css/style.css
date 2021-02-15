@@ -45,7 +45,6 @@ body {
 }
 
 .index-hero-text {
-    position: absolute;
     bottom: 20px;
     right: 0px;
     margin: 0 10px;
@@ -62,7 +61,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
-    height: 330px;
+    height: auto;
     width: 100%;
 }
 
@@ -110,6 +109,7 @@ body {
 }
 
 .main-container {
+    position: relative;
     top:0;
     left:0;
     padding-left: 3%;
@@ -333,27 +333,15 @@ footer {
     body {
         padding-bottom: 65px;
     }
-    
 }
  
 @media screen and (max-width: 480px) {
 
-    .main-container {
-        padding-top: 570px;
-    }
+    
     .main-container-profile {
     padding-bottom: 10vw;
 }
     .header-font {
         font-size: x-large;
     }
-}
-
-@media only screen 
-and (min-device-width : 320px) 
-and (max-device-width : 568px) {
-    .index-hero-text {
-        top: 50px;
-    }
-    
 }

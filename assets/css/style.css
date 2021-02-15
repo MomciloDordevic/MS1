@@ -2,7 +2,7 @@
 
 body {
     padding-top: 45px;
-    padding-bottom: 45px;;
+    padding-bottom: 45px;
 }
 
 * {
@@ -193,7 +193,7 @@ body {
 .contact-image {
     background-image: url("../img/pexels-pixabay-163143.jpg");
     background-size: cover;
-    height: 100%;
+    height: auto;
 }
 
 .contact-container {
@@ -252,7 +252,7 @@ body {
     font-family: "poppins",sans-serif;
     font-weight: 500;
     letter-spacing: 2px;
-    height:auto;
+    height: auto;
 }
 
 .footer-cv {
@@ -325,25 +325,38 @@ footer {
 }
 
 @media screen and (max-width: 600px) {
-    body {
-        padding-bottom: 65px;
-    }
+    
 }
  
 @media screen and (max-width: 480px) {
 
     
+
     .main-container-profile {
     padding-bottom: 15vw;
 }
     .header-font {
         font-size: x-large;
     }
+    .carousel-portfolio {
+        padding-top: 50px;
+    }
+    .contact-container {
+        padding-top: 50px;
+    }
+    .contact-text {
+        width: 100%;
+        padding-right: 50px;
+    }
+    
 }
 
 @media screen and (max-width: 340px) {
     .index-hero-text { 
         padding-top: 30px;
+    }
+    body {
+        padding-bottom: 110px;
     }
     
 

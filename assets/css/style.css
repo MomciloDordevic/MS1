@@ -205,7 +205,9 @@ body {
 
 .contact-button {
     margin: 0 auto;
-    display:flex;
+    display: flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
 }
 
 .contact-text {
@@ -213,8 +215,8 @@ body {
     font-family: "poppins",sans-serif;
     text-align: center;
     font-weight: 400;
-    padding-left: 15%;
-    padding-bottom: 2%;
+    padding-left: 30px;
+    padding-bottom: 3%;
 }
 
 .form-labels {
@@ -324,9 +326,6 @@ footer {
 
 }
 
-@media screen and (max-width: 600px) {
-    
-}
  
 @media screen and (max-width: 480px) {
 
@@ -345,19 +344,20 @@ footer {
         padding-top: 50px;
     }
     .contact-text {
-        width: 100%;
-        padding-right: 50px;
+        font-size: x-large;
+        width: 250px;
+        padding-right: 50px; 
     }
-    
+    body {
+        padding-bottom: 85px;
+    }
 }
 
 @media screen and (max-width: 340px) {
     .index-hero-text { 
         padding-top: 30px;
     }
-    body {
-        padding-bottom: 110px;
-    }
+    
     
 
 }

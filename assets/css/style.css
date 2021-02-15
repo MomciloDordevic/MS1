@@ -96,9 +96,7 @@ body {
     color:black;
 }
 
-.plate-color {
-    background-color: rgba(255, 255, 255, 0.7);
-}
+
 
 .skill-container {
     bottom: 20px;
@@ -192,6 +190,10 @@ body {
 }
 
 /* Contact Container */
+
+.plate-color {
+    background-color: rgba(255, 255, 255, 0.7);
+}
 
 .contact-image {
     background-image: url("../img/pexels-pixabay-163143.jpg");

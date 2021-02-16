@@ -311,6 +311,8 @@ footer {
 
 
 @media screen and (max-width: 1024px) {
+
+
     .index-hero-text {
     top: 15px;
     height: fit-content;
@@ -358,4 +360,5 @@ footer {
         padding-top: 30px;
     }
 }
+
 

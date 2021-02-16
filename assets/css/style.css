@@ -199,6 +199,7 @@ body {
     background-image: url("../img/pexels-pixabay-163143.jpg");
     background-size: cover;
     height: auto;
+    
 }
 
 .contact-container {
@@ -271,7 +272,11 @@ footer {
     color: #fafafa;
 }
 
-.social-links a{
+.social-links { 
+    float:left;
+}
+
+.social-links a {
     color: #fafafa;
     text-decoration: none;
     letter-spacing: 5px;
@@ -309,36 +314,31 @@ footer {
     .index-hero-text {
     top: 15px;
     height: fit-content;
-}
+    }
 
-.main-container-profile {
+    .main-container-profile {
     padding-bottom: 15px;
-}
+    }
 
 
-.contact-container {
+    .contact-container {
     padding-left: 10%;
-}
+    }
 
-.footer-text {
+    .footer-text {
     text-align: center;
-}
+    }
 
 
-.progress-type {
+    .progress-type {
     color: black;
+    }
 }
-
-}
-
- 
 @media screen and (max-width: 480px) {
-
-    
 
     .main-container-profile {
     padding-bottom: 15vw;
-}
+    }
     .header-font {
         font-size: x-large;
     }
@@ -346,7 +346,7 @@ footer {
         padding-top: 50px;
     }
     .contact-container {
-        padding-top: 50px;
+        padding-top: 30px;
     }
     .contact-text {
         font-size: x-large;

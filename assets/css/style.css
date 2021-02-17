@@ -4,6 +4,8 @@ body {
     padding-top: 45px;
 }
 
+
+
 * {
     margin: 0;
     padding: 0;
@@ -315,6 +317,8 @@ footer {
 
     .index-hero-text {
     top: 15px;
+    height: -webkit-fit-content;
+    height: -moz-fit-content;
     height: fit-content;
     }
 
@@ -360,5 +364,4 @@ footer {
         padding-top: 30px;
     }
 }
-
 

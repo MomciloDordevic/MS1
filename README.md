@@ -304,6 +304,23 @@ I run Lighthouse tool to check performance of the website. I had to do couple of
  * W3C CSS Validator to validate CSS.
  * W3C HTML Validator to validate HTML.
 
+### HTML Validation :
+
+### Home Page:
+
+![](https://i.gyazo.com/1667c532a4d27946d2ca9a93bec895af.png) 
+
+### Project Page:
+
+![](https://i.gyazo.com/7c574c18e85d09cb95696d66ff364f64.png)
+
+### Contact Page:
+
+![](https://i.gyazo.com/31c1d8b8b1dc1952f000d6cf35f41521.png)
+
+### CSS Validation :
+
+![](https://i.gyazo.com/c043c46a09825cb62eb096ccf16ab333.png)
 
 ## Deployment
 

@@ -2,6 +2,7 @@
 
 body {
     padding-top: 45px;
+    min-height: 100vh;
 }
 
 

@@ -2,7 +2,7 @@
 
 ## User-Centric Frontend Development Milestone Project.
 
-![](https://i.gyazo.com/76c8151555065a9545411688bdba9dbe.png)
+![](https://i.gyazo.com/ebcac951b4087ae875a61db7e57086ef.png)
 
 This website presents Momcilo's professional portfolio as a fictional Front-End / Full-Stack Developer.
 The goal is for the user to find interesting and informative content in a easy and simple way.
@@ -117,6 +117,8 @@ The user will get some interaction from the interface as links and buttons will 
 ## Wireframes
 
 I used website wireframe.cc to create a wireframes.
+
+![](https://i.gyazo.com/68f8051349d58ed701cd51f5114e7cbf.png)
 
 
 
@@ -284,9 +286,18 @@ I tested on hardware devices such as: Iphone 11, Lenovo Tablet, Huawei p30 pro, 
     * The Projects page is there including all the projects with live links and links to github repositories.
 
 
-## Issues Found During Site Development
-
 ## Performace Testing
+
+I run Lighthouse tool to check performance of the website. I had to do couple of changes to improve performance. Screenshots are presented below:
+
+
+![](https://i.gyazo.com/73cd555815f3a11af56c969b419dddbe.png)
+
+![](https://i.gyazo.com/c5e4dcb8e95db3513bdbf96c16d59da2.png)
+
+![](https://i.gyazo.com/6bb61e033d257907c52bad92b474d634.png)
+
+![](https://i.gyazo.com/4d2c19b36707a4c39fc1d6ee737c16d1.png)
 
 ### Code Validation
 
@@ -339,3 +350,19 @@ To run localy:
  * Bootstrap: Cards.
 
 ## Screenshots
+
+### Home Page
+
+![](https://i.gyazo.com/e8b3f4da57325d39bac7a7e8c6b8777f.jpg)
+
+![](https://i.gyazo.com/e09afca53834cadc14f7885edaf097ed.png)
+
+### Projects Page
+
+![](https://i.gyazo.com/d465aa6b99cb977de0fde07adafc357b.jpg)
+
+![](https://i.gyazo.com/917d6adeee1affb5f9c782f65ac86a37.png)
+
+### Contact Page
+
+![](https://i.gyazo.com/ec65c5eb8bfd5e8eacab6cadfa4ba554.jpg)

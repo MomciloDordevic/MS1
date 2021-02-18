@@ -2,7 +2,6 @@
 
 body {
     padding-top: 45px;
-    min-height: 100vh;
 }
 
 
@@ -156,7 +155,6 @@ body {
 }
 
 .project-cards {
-    min-height: 100vh;
     background-color: #e8e8e8;
 }
 
@@ -365,3 +363,13 @@ footer {
         padding-top: 30px;
     }
 }
+
+
+/*Portrait for iPad Pro*/ 
+@media only screen and (min-width: 1024px) and (orientation: portrait) { 
+    .project-cards{
+        min-height: 45vh;
+    }
+ }
+
+
